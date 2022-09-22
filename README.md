@@ -1,4 +1,4 @@
-# startwars_application\n
+# startwars_application
 ### prenom: Alexandre                                       #                             
 ### nom: Djetic                                             # 
 ### date: 22/09/2022                                        # 
