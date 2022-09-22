@@ -11,8 +11,8 @@ this application got two break point:
 - from 700 px and more, this rule deserve for computer, desktop and tablette that have more than 10 inch  \n 
 - all the file can be copy, paste, launch. you can get the file here: https://github.com/alex20355/startwars_application/ \n
 
-note:     \n 
-- this application will use this api: https://akabab.github.io/starwars-api/ in the next update     \n 
-- I have also some idea to add a quiz, which got theme starwars about actor, people that appair in side story serie.  \n 
+note:     
+- this application will use this api: https://akabab.github.io/starwars-api/ in the next update      
+- I have also some idea to add a quiz, which got theme starwars about actor, people that appair in side story serie.  
 
 disclamer:  this application is no mean for commercial use
