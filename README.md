@@ -3,7 +3,6 @@
 ### nom: Djetic                                             # 
 ### date: 22/09/2022                                        # 
 ### version: 1.0.0                                          # 
-### license: github                                         #  
 this web application deliver information of people that appair in starwars. \n
 Also, information about people are store in a file of format json package,you can find the original database from this api : https://akabab.github.io/starwars-api/   
 
