@@ -1,0 +1,83 @@
+@media only screen and (max-width: 700px){
+	/* taille téléphone */
+	body {
+		background-color: black;
+	}
+	body div {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		background-color: grey;
+	}
+	footer {
+		display: flex;
+		flex-direction: rows;
+		justify-content: center;
+	}
+	footer button {
+		border: black 0.5px solid;
+		font-size: 1.5em;
+		width: 38%;
+		background-color: grey;
+		color: white;
+	}
+	.info_perso {
+		text-align: center;
+		color: white;
+	}
+	#passer {
+		display:  flex;
+		align-items: center;
+	}
+}
+
+@media only screen and (min-width: 700px){
+	/* taille pc */
+	body {
+		background-color: black;
+	}
+	body div {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+	}
+
+	#passer {
+		display:  flex;
+		flex-direction: row;
+		background-color: grey;
+		align-items: center;
+		padding: 0;
+		margin: 0;
+		justify-content: center;
+	}
+	#passer div {
+		text-align: center;
+	}
+
+	#info {
+		display: flex;
+		flex-direction: column;
+		width: 50%;
+		background-color: grey;
+	}
+	.info_perso {
+		text-align: center;
+		color: white;
+	}
+
+	footer {
+		display: flex;
+		flex-direction: rows;
+		justify-content: center;
+	}
+	footer button {
+		border: black 1px solid;
+		padding: 1em;
+		font-size: 2em;
+		width: 38%;
+		background-color: grey;
+		color: white;
+	}
+
+}
